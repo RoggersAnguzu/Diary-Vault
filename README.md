@@ -56,15 +56,11 @@ Contributions to MyDiary are welcome! If you'd like to contribute, please follow
 
 ## Support
 
-If you encounter any issues or need assistance, please contact our support team at [ranguzu7@gmail.com].
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+If you encounter any issues or need assistance, please contact me at ranguzu7@gmail.com.
 
 ## Acknowledgments
 
-We would like to thank our users for their valuable feedback and support in making MyDiary a trusted platform for personal journaling.
+I would like to thank our users for their valuable feedback and support in making MyDiary a trusted platform for personal journaling.
 
 ---
 
