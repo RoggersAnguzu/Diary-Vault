@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\Diary Application.exe.config
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\Diary Application.exe
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\Diary Application.pdb
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.Form1.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.Properties.Resources.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.exe
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.pdb
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\pics\2.jpg
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\pics\3.jpg
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\pics\1.jpg
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\music\1.mp3
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary Application.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.AboutUs.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.help.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.user.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\user_pic\3.jpg
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\user_pic\2.jpg
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.login.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.memo.resources
+C:\Users\Admin\source\repos\Diary Application\Diary Application\bin\Debug\data\docs\1.rtf
+C:\Users\Admin\source\repos\Diary Application\Diary Application\obj\Debug\Diary_Application.my_forms.search.resources
