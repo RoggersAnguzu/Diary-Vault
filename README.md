@@ -52,7 +52,7 @@ Diary Vault is a user-friendly and versatile diary application designed to help 
 
 ## Contributing
 
-Contributions to MyDiary are welcome! If you'd like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+Contributions to MyDiary are welcome! If you'd like to contribute Follow the right Proceedures.
 
 ## Support
 
@@ -68,6 +68,6 @@ I would like to thank our users for their valuable feedback and support in makin
 
 "Start journaling and capturing your life's moments with MyDiary today!"
 
-
+**License**
 
 
