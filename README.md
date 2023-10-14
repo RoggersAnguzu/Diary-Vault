@@ -1,6 +1,7 @@
 Overview
 
-##  Photo. 
+##  Below Shows the Screen Appearance with all the Functionalities. 
+
 ![Vault](https://github.com/RoggersAnguzu/Diary-Vault/assets/141458053/8946ac14-a253-44bf-8cd8-2612ad10ed2e)
 
 Diary Vault is a user-friendly and versatile diary application designed to help you record your thoughts, experiences, and memories. With a clean and intuitive interface, it provides a convenient platform for journaling and reflection.
