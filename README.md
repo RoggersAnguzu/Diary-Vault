@@ -63,11 +63,10 @@ If you encounter any issues or need assistance, please contact me at ranguzu7@gm
 
 I would like to thank our users for their valuable feedback and support in making MyDiary a trusted platform for personal journaling.
 
----
 
 **Note**: MyDiary is committed to protecting your privacy. Your data is encrypted and securely stored. We do not share your personal information with third parties.
 
-"Start journaling and capturing your life's moments with MyDiary today!"
+Start journaling and capturing your life's moments with MyDiary today
 
 
 
