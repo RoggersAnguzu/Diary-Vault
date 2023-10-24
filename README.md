@@ -1,5 +1,3 @@
-Overview
-
 ##  Below Shows the Screen Appearance with all the Functionalities. 
 
 ![Vault](https://github.com/RoggersAnguzu/Diary-Vault/assets/141458053/8946ac14-a253-44bf-8cd8-2612ad10ed2e)
