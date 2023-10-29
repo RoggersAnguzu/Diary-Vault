@@ -11,7 +11,7 @@ Diary Vault is a user-friendly and versatile diary application designed to help 
 - **Secure and Private**: Your entries are safely stored, ensuring your privacy.
 
 - **Quick Access**: Navigate through your diary with ease using the user-friendly interface.
-
+ 
 - **Date and Time Tracking**: Each entry is timestamped for accurate record-keeping.
 
 - **Calendar View**: Visualize your journal entries on a calendar for easy browsing.
